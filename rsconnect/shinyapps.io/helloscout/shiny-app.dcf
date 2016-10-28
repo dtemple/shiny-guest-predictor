@@ -1,0 +1,9 @@
+name: shiny-app
+account: helloscout
+server: shinyapps.io
+appId: 134257
+bundleId: 598374
+url: https://helloscout.shinyapps.io/shiny-app/
+when: 1477577406.75304
+asMultiple: FALSE
+asStatic: FALSE
